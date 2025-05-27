@@ -275,7 +275,7 @@ workflow = builder.compile()
 if __name__ == "__main__":
     try:
         initial_state = AgentState(
-            messages=[HumanMessage(content="成都市2025年GDP增长率分析")]
+            messages=[HumanMessage(content="苏州市2025年GDP增长率分析")]
         )
 
         final_report = None
