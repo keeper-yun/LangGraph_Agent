@@ -1,7 +1,4 @@
 
-
-#示例：state_graph.py
-
 # 从langgraph.graph模块导入START和StateGraph
 from langgraph.graph import START, StateGraph
 # 定义一个节点函数my_node，接收状态和配置，返回新的状态
